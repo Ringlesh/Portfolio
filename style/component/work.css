@@ -6,7 +6,7 @@
 
 .work__title
 {
-  font-size:var(--size-2xl);
+  font-size:var(--size-4xl);
 
 
 }
@@ -63,7 +63,8 @@
 
 .work__project-discription1
 {
-  font-size:var(--size-sm);
+  font-weight: bold;
+  font-size:var(--size-base);
   color:var(--clr-slate600);
   margin:1rem 0;
 }
@@ -90,7 +91,7 @@
 
   .work__title
 {
-  font-size:var(--size-3xl); 
+  font-size:var(--size-5xl); 
 
 }
 
@@ -109,8 +110,8 @@
 
 .work__project-discription1
 {
-  font-size:var(--size-base);
-  color:var(--clr-slate600);
+  font-size:var(--size-xl);
+  color:var(--clr-slate400);
   margin:1.5rem 0;
 }
 
@@ -182,7 +183,7 @@ grid-area:work__project-container2;
 {
   .work__project-discription1
   {
-    font-size:var(--size-sm);
+    font-size:var(--size-2xl);
 
   }
   
@@ -213,7 +214,7 @@ grid-area:work__project-container2;
 {
   .work__title
   {
-    font-size:var(--size-4xl);
+    font-size:var(--size-6xl);
    
   
   }
@@ -228,7 +229,7 @@ grid-area:work__project-container2;
 
   .work__project-discription1
   {
-    font-size:var(--size-base);
+    font-size:var(--size-3xl);
 
   }
   
@@ -259,7 +260,7 @@ grid-area:work__project-container2;
 {
   .work__title
   {
-    font-size:var(--size-5xl);
+    font-size:var(--size-7xl);
    
   
   }
@@ -274,7 +275,7 @@ grid-area:work__project-container2;
 
   .work__project-discription1
   {
-    font-size:var(--size-lg);
+    font-size:var(--size-4xl);
 
   }
   

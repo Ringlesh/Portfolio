@@ -94,6 +94,17 @@ strong
   color:var(--clr-indigo);
 }
 
+.s1
+{
+  display: inline-block;
+  border-radius:1rem;
+  color: white;
+  background: #410285;
+  margin:1rem;
+  padding:0.5rem;
+  font-weight: bold;
+}
+
 /* color
 tailwind libary plates
 color
