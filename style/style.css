@@ -128,3 +128,8 @@ body::-webkit-scrollbar-thumb
   background-color: var(--clr-rose);
   outline:1px solid var(--clr-rose)f;
 }
+
+.c-x{
+  margin-left:2rem;
+  margin-right:2rem;
+}
